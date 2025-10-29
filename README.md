@@ -5,11 +5,10 @@ Práctica correspondiente a la Unidad Temática 01 del módulo **Desarrollo Web 
 
 ## Estructura del proyecto
 
-DWES-UT01-Práctica-2025-2026/ 
-|── index.html 
-├── images/ 
-├── README.md 
-
+DWES-UT01-Práctica-2025-2026/
+├── index.html
+├── imágenes/
+└── README.md
 
 ## Correcciones aplicadas
 
