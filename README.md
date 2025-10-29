@@ -6,13 +6,13 @@ Práctica correspondiente a la Unidad Temática 01 del módulo **Desarrollo Web 
 ## Estructura del proyecto
 
 DWES-UT01-Práctica-2025-2026/
-├── index.html
 ├── imágenes/
+├── index.html
 └── README.md
 
 ## Correcciones aplicadas
 
-- ✅ Se ha reubicado `index.html` en la raíz del repositorio, según indicaciones académicas.
+- ✅ Se ha reubicado `index.html` en la raíz del repositorio.
 - ✅ Se ha eliminado una carpeta duplicada que contenía un repositorio Git interno (`.git`).
 - ✅ Se ha organizado la carpeta `images/` para contener los recursos gráficos.
 - ✅ Se han realizado commits con mensajes técnicos y trazables.
